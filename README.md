@@ -5,4 +5,4 @@ Luis Alberto Suárez Díaz who is a Uruguayan professional footballer had biten 
 	While playing for Uruguay in the 2014 World Cup
 
 
-This reactjs game is based on this biting incident. Suarez doing at what he is good at i.e biting.
+This reactjs game is based on the biting incidents. Suarez doing at what he is good at i.e biting.
