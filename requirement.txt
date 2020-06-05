@@ -35,7 +35,7 @@ crypto==1.4.1
 cryptography==2.1.4
 cssselect==0.9.2
 Cython==0.26.1
-Django==1.11.5
+Django==1.11.29
 django-cachalot==0.6.0
 django-celery==3.1.10
 django-celery-email==1.0.4
