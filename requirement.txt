@@ -152,7 +152,7 @@ python-debian==0.1.21
 python-memcached==1.53
 python-memcached-stats==0.1
 pytz==2013.7
-PyYAML==3.10
+PyYAML==5.4
 raven==5.31.0
 razorpay==0.3.0
 redis==2.10.5
