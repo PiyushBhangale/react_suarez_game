@@ -175,7 +175,7 @@ tinycss==0.3
 tlslite==0.4.9
 tornado==4.2
 ua-parser==0.7.3
-urllib3==1.22
+urllib3==1.26.5
 user-agents==1.1.0
 validate-email==1.2
 virtualenv==15.2.0
