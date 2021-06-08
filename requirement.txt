@@ -92,7 +92,7 @@ oauth==1.0.1
 oauthlib==2.0.1
 olefile==0.44
 pam==0.1.4
-Pillow==3.1.0
+Pillow==8.2.0
 plivo==0.11.1
 ply==3.4
 prettytable==0.7.2
