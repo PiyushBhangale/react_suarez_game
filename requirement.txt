@@ -170,7 +170,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 South==1.0
 ssh-import-id==3.21
-supervisor==3.0b2
+supervisor==3.0.1
 tinycss==0.3
 tlslite==0.4.9
 tornado==4.2
